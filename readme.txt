@@ -1,4 +1,10 @@
-To start the project, create a new class (Database.php) in libraries folder as in the example :
+To start the project:
+
+
+1 -> Copy and paste the blogpoo.sql file in your SGBD and run it.
+
+
+2 -> Create a new class (Database.php) in libraries folder as in the example :
 
 class Database {
 
